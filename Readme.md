@@ -22,11 +22,12 @@ ts-node index.ts
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Adding a project to git
 
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+```bash
+git init
+git add .
+git commit -m "Add existing project files to Git"
+git remote add origin https://github.com/cameronmcnz/example-website.git
+git push -u -f origin master
+```
