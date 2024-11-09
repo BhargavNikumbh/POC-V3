@@ -3,19 +3,19 @@
     "action": "LAUNCH_URL",
     "value": "https://demoblaze.com/",
     "status": "success",
-    "screenshot": "reports/TC_01/screenshots/LAUNCH_URL_1731154955798.png"
+    "screenshot": "reports/TC_01/screenshots/LAUNCH_URL_1731156128709.png"
   },
   {
     "action": "CLICK",
     "xpath": "HOMEPAGE_SIGNUP_LINK",
     "status": "success",
-    "screenshot": "reports/TC_01/screenshots/CLICK_1731154956612.png"
+    "screenshot": "reports/TC_01/screenshots/CLICK_1731156129306.png"
   },
   {
     "action": "SEND_KEYS",
     "xpath": "//*[@id='sign-username']",
     "value": "Bhargav",
     "status": "success",
-    "screenshot": "reports/TC_01/screenshots/SEND_KEYS_1731154956859.png"
+    "screenshot": "reports/TC_01/screenshots/SEND_KEYS_1731156129756.png"
   }
 ]

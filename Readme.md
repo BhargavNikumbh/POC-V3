@@ -11,13 +11,13 @@ npm install -g http-server
 ```
 
 ```bash
-http-server .
+npx http-server .
 ```
 
 ## Usage
 
 ```bash
-ts-node index.ts
+npx ts-node index.ts
 ```
 
 ## Contributing
